@@ -1,8 +1,8 @@
 1	Harry Potter y la piedra filosofal
 2	Harry Potter y la cámara secreta
 3	Harry Potter y el prisionero de Azkaban
-4	
-5	
-6	
-7	
-8	
+4	Harry Potter se va excursión
+5	Harry Potter llora
+6	Harry Potter se enamora
+7	Harry Potter sigue creciendo
+8	Harry Potter muere
